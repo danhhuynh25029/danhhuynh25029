@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danhhuynh25029
+- 👋 Hi, I’m Danh Huynh
 - 👀 I’m interested in music
 - 🌱 I’m currently learning computer science
 
