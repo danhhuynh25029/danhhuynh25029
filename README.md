@@ -5,7 +5,7 @@
 [<img href="https://www.facebook.com/danh250/" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/danh250/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danhhuynh25029&show_icons=true&include_all_commits=true)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=5)]()
 
 <!---
 danhhuynh25029/danhhuynh25029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
