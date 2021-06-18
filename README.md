@@ -4,7 +4,7 @@
 
 [<img href="https://www.facebook.com/danh250/" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/danh250/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danhhuynh25029&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danhhuynh25029&show_icons=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
