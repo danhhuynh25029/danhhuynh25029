@@ -4,8 +4,6 @@
 
 [<img href="https://www.facebook.com/danh250/" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/danh250/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danhhuynh25029&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=true&show_icons=true&include_all_commits=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=11&&layout=compact)]()
 
