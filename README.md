@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Danh Huynh
 - 👀 I’m interested in music
 - 🌱 I’m currently learning computer science 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
