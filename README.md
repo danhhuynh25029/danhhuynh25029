@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Danh Huynh
 - 👀 I’m interested in music
 - 🌱 I’m currently learning computer science
-![cat](https://www.creativosonline.org/wp-content/uploads/2017/08/gifs-antiguos.gif)
+![cat](https://www.creativosonline.org/wp-content/uploads/2017/08/gifs-antiguos.gif = 100x100)
 img[alt=cat] { width: 200px;height:200px }
 
 
