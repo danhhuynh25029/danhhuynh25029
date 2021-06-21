@@ -2,7 +2,10 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning computer science
 ![cat](https://www.creativosonline.org/wp-content/uploads/2017/08/gifs-antiguos.gif){ height="50%" width="50%"}
-
+img[alt=cat] {
+   width:100px;
+   height:100px;
+}
 
 [<img href="https://www.facebook.com/danh250/" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/danh250/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/danhhuynh25029/)
