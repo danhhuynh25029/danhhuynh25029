@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Danh Huynh
 - 👀 I’m interested in music
-- 🌱 I’m currently learning computer science <img src="https://www.creativosonline.org/wp-content/uploads/2017/08/gifs-antiguos.gif" alt="drawing" width="100" height="100"/>
+- 🌱 I’m currently learning computer science
+<img src="https://www.creativosonline.org/wp-content/uploads/2017/08/gifs-antiguos.gif" alt="drawing" width="200" height="200" float="right"/>
 
 [<img href="https://www.facebook.com/danh250/" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/danh250/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/danhhuynh25029/)
