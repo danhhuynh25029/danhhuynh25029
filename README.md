@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a63c4261218031.5a676896b58d4.gif" alt="drawing" width="300" height="200" " align="right"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a63c4261218031.5a676896b58d4.gif" alt="drawing" width="300" height="200" align="right"/>
 - 👋 Hi, I’m Danh Huynh
 - 👀 I’m interested in music
 - 🌱 I’m currently learning computer science
