@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in music
 
-- 🌱 I’m currently learning computer science
+- :computer: I’m currently learning computer science
   
   
 [<img href="https://www.facebook.com/danh250/" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/danh250/)
