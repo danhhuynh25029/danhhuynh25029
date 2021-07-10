@@ -16,7 +16,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-danhhuynh25029)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=true&include_all_commits=tr)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=11&&layout=compact)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=100&&layout=compact)]()
 
 
 
