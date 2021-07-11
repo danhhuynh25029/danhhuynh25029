@@ -8,16 +8,11 @@
 
 - :computer: I’m currently learning Computer Science
 
-![](https://komarev.com/ghpvc/?username=your-github-danhhuynh25029)
-### Contact with me: 
+
 [<img href="https://www.facebook.com/danh250/" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/danh250/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/danhhuynh25029/)
 
-
-
-### My skills:
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-
+![](https://komarev.com/ghpvc/?username=your-github-danhhuynh25029)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=true&include_all_commits=tr)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=13&&layout=compact)]()
