@@ -7,6 +7,7 @@
 - 👀 I’m interested in music
 
 - :computer: I’m currently learning Computer Science
+
 ![](https://komarev.com/ghpvc/?username=your-github-danhhuynh25029)
 ### Contact with me: 
 [<img href="https://www.facebook.com/danh250/" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/danh250/)
