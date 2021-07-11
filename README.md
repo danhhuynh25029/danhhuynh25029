@@ -16,7 +16,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-danhhuynh25029)
 ### My skills:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/c++.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=true&include_all_commits=tr)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=13&&layout=compact)]()
