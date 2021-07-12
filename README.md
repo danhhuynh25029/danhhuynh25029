@@ -13,7 +13,7 @@
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/danhhuynh25029/)
 
 ![](https://komarev.com/ghpvc/?username=your-github-danhhuynh25029)
-
+<img src="https://badges.pufler.dev/commits/monthly/danhhuynh25029" />
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=true&include_all_commits=tr)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=13&&layout=compact)]()
 
