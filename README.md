@@ -18,6 +18,12 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=true&include_all_commits=tr)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=13&&layout=compact)]()
 
+<a href="https://github.com/danhhuynh25029/github-stats">
+
+![](https://github.com/danhhuynh25029/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/danhhuynh25029/github-stats/blob/master/generated/languages.svg)
+
+</a>
 
 
 <!---
