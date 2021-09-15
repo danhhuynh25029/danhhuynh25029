@@ -17,7 +17,7 @@
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=true&include_all_commits=tr)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=13&&layout=compact)](https://www.linkedin.com/in/danh-huynh-8498581b3/)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=13&&layout=compact)]()
 
 
 
