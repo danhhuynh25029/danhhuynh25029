@@ -15,10 +15,10 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-danhhuynh25029)
 
-| <a href="https://github.com/danhhuynh25029"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=false&include_all_commits=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/danhhuynh25029"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=13&&layout=compact" /></a> |
+| <a href="https://github.com/danhhuynh25029"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=false&include_all_commits=true&&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/danhhuynh25029"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=13&&layout=compact&&hide_border=true" /></a> |
 | ------------- | ------------- |
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=false&include_all_commits=true)]() -->
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=13&&layout=compact)]() -->
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=danhhuynh25029&count_private=false&show_icons=false&include_all_commits=true&&hide_border=true)]() -->
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danhhuynh25029&langs_count=13&&layout=compact&&hide_border=true)]() -->
 
 
 
