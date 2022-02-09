@@ -1,4 +1,4 @@
-<!--   # My github
+# My github
 
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a63c4261218031.5a676896b58d4.gif" alt="drawing" width="350" height="200" align="right"/>
 
