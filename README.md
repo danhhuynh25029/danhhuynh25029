@@ -11,7 +11,7 @@
 ### :telephone_receiver: Contact me
 [<img href="https://www.facebook.com/danh250/" alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/danh250/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/danhhuynh25029/)
-[<img href="https://www.linkedin.com/in/danh-huynh-8498581b3/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/danh-huynh-8498581b3/)
+[<img href="https://www.linkedin.com/in/danh-huynh-8498581b3/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/huynh-ngoc-cong-danh-8498581b3/)
 
 ![](https://komarev.com/ghpvc/?username=your-github-danhhuynh25029)
 
