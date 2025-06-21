@@ -4,10 +4,6 @@
 
 - 👋 Hi, I’m Danh Huynh
 
-- 👀 I’m interested in music
-
-- :computer: I’m currently learning Computer Science
-
 ### :telephone_receiver: Contact me
 [<img href="https://www.linkedin.com/in/danh-huynh-8498581b3/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/huynh-ngoc-cong-danh-8498581b3/)
 
